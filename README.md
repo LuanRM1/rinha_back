@@ -1,3 +1,5 @@
+[Vídeo](https://drive.google.com/file/d/1my26E843GFAWUvYlxv-ELup_XFKZAxRw/view?usp=sharing)
+
 # Rinha de Backend – API de Transações Bancárias
 
 Esta API controla transações bancárias com alta performance e consistência de dados usando Go, PostgreSQL e Nginx.
